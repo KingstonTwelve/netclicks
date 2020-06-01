@@ -1,4 +1,4 @@
-
+'use strict';
 
 const IMG_URL = 'https://image.tmdb.org/t/p/w185_and_h278_bestv2';
 const API_KEY = '1fb45803e9b900a151da1ff62f42a8d0';
